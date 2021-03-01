@@ -9,6 +9,12 @@
         "custom_model_data": 307001
       },
       "model": "techblox/pulverizer"
+    },
+    {
+      "predicate": { 
+        "custom_model_data": 307002
+      },
+      "model": "techblox/water_infuser"
     }
   ]
 }
