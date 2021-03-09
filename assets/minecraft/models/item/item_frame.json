@@ -15,12 +15,6 @@
         "custom_model_data": 307002
       },
       "model": "techblox/water_infuser"
-    },
-    {
-      "predicate": { 
-        "custom_model_data": 307004
-      },
-      "model": "techblox/mega_smelter"
     }
   ]
 }
